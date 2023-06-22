@@ -267,7 +267,7 @@ top
 @media screen and (max-width: 767px) {
   .top__img {
     padding-top: 56.22%;
-    background: url(https://github.com/aonagi/aonagi-web/blob/main/img/mv.png?raw=true) no-repeat 23% 40%/cover;
+    background: url("https://github.com/aonagi/aonagi-web/blob/main/img/mv.png?raw=true") no-repeat 23% 40%/cover;
     background-size: 300% 150%;
     height: 667px;
   }
@@ -431,7 +431,7 @@ news
   content: "";
   width: 43px;
   height: 46px;
-  background: url(https://github.com/aonagi/aonagi-web/blob/main/img/news-arrow.png?raw=true) center center no-repeat;
+  background: url("https://github.com/aonagi/aonagi-web/blob/main/img/news-arrow.png?raw=true") center center no-repeat;
   background-size: 11px 22px;
   top: 50%;
   right: 0;
@@ -1032,7 +1032,7 @@ faq
 }
 
 .faq__img {
-  background-image: url(https://github.com/aonagi/aonagi-web/blob/main/img/qa-bg.png?raw=true);
+  background-image: url("https://github.com/aonagi/aonagi-web/blob/main/img/qa-bg.png?raw=true");
   background-position: top center;
   background-size: cover;
   background-attachment: fixed;
@@ -1127,7 +1127,7 @@ faq
   content: "";
   width: 17px;
   height: 17px;
-  background: url(https://github.com/aonagi/aonagi-web/blob/main/img/plus.png?raw=true) no-repeat center center/contain;
+  background: url("https://github.com/aonagi/aonagi-web/blob/main/img/plus.png?raw=true") no-repeat center center/contain;
   top: 50%;
   right: 0;
   transform: translateY(-50%);
