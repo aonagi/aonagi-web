@@ -1301,7 +1301,7 @@ contact
 .contact {
   margin-top: 256px;
   padding: 60px 0;
-  background: url(/img/contact-bg.png) no-repeat center center/cover;
+  background: url("https://github.com/aonagi/aonagi-web/blob/main/img/contact-bg.png?raw=true") no-repeat center center/cover;
 }
 @media screen and (max-width: 767px) {
   .contact {
@@ -1328,14 +1328,14 @@ contact
 
 .contact__box-header {
   color: #fff;
-  background: url(/img/contact1.png) no-repeat center center/cover;
+  background: url("https://github.com/aonagi/aonagi-web/blob/main/img/contact1.png?raw=true") no-repeat center center/cover;
   padding: 64px 0;
   border-radius: 12px 12px 0 0;
 }
 @media screen and (max-width: 767px) {
   .contact__box-header {
     padding: 43px 16px 30px;
-    background: url(/img/contact1_sp.png) no-repeat center center/cover;
+    background: url("https://github.com/aonagi/aonagi-web/blob/main/img/contact1_sp.png?raw=true") no-repeat center center/cover;
   }
 }
 
